@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resouse>
+    <country countryname="FI">FI</country><!-- 芬兰 -->
+    <country countryname="SE">SE</country><!-- 瑞典 -->
+    <country countryname="NO">NO</country><!-- 挪威 -->
+    <country countryname="IS">IS</country><!-- 冰岛 -->
+    <country countryname="DK">DK</country><!-- 丹麦 -->     
+    <country countryname="FO">FO</country><!-- 法罗群岛 -->
+    <country countryname="EE">EE</country><!-- 爱沙尼亚 -->           
+    <country countryname="LV">LV</country><!-- 拉脱维亚 -->           
+    <country countryname="BY">BY</country><!-- 白俄罗斯 -->
+    <country countryname="RU">RU</country><!-- 俄罗斯 -->
+    <country countryname="UA">UA</country><!-- 乌克兰 -->
+    <country countryname="MD">MD</country><!-- 摩尔多瓦 -->
+    <country countryname="PL">PL</country><!-- 波兰 -->
+    <country countryname="CZ">CZ</country><!-- 捷克 -->    
+    <country countryname="SK">SK</country><!-- 斯洛伐克 -->
+    <country countryname="HU">HU</country><!-- 匈牙利 -->
+    <country countryname="DE">DE</country><!-- 德国 -->
+    <country countryname="AT">AT</country><!-- 奥地利 -->
+    <country countryname="CH">CH</country><!-- 瑞士 -->
+    <country countryname="LI">LI</country><!-- 列支敦士登 -->
+    <country countryname="GB">GB</country><!-- 英国 -->
+    <country countryname="IE">IE</country><!-- 爱尔兰 -->
+    <country countryname="NL">NL</country><!-- 荷兰 -->
+    <country countryname="BE">BE</country><!-- 比利时 -->
+    <country countryname="LU">LU</country><!-- 卢森堡 -->
+    <country countryname="FR">FR</country><!-- 法国 -->
+    <country countryname="MC">MC</country><!-- 摩纳哥 -->
+    <country countryname="RO">RO</country><!-- 罗马尼亚 -->
+    <country countryname="BG">BG</country><!-- 保加利亚 -->
+    <country countryname="RS">RS</country><!-- 塞尔维亚 -->
+    <country countryname="MK">MK</country><!-- 马其顿 -->
+    <country countryname="AL">AL</country><!-- 阿尔巴尼亚 -->
+    <country countryname="GR">GR</country><!-- 希腊 -->
+    <country countryname="SI">SI</country><!-- 斯洛文尼亚 -->
+    <country countryname="HR">HR</country><!-- 克罗地亚 -->
+    <country countryname="IT">IT</country><!-- 意大利 -->
+    <country countryname="VA">VA</country><!-- 梵蒂冈 -->
+    <country countryname="SM">SM</country><!-- 圣马力诺 -->
+    <country countryname="MT">MT</country><!-- 马耳他 -->
+    <country countryname="ES">ES</country><!-- 西班牙 -->
+    <country countryname="PT">PT</country><!-- 葡萄牙 -->
+    <country countryname="AD">AD</country><!-- 安道尔 -->
+    <country countryname="BA">BA</country><!-- 波黑 -->
+
+</resouse>
